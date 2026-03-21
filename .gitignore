@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+# Ignore the .env file
+=======
+# Ignore the .env file
+>>>>>>> c4ffa12083fd8457e8012616f09c2575a9648fbe
+.env
